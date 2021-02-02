@@ -1,0 +1,4 @@
+apiVersion: v1
+description: ODL Netconf Test Tool
+name: cds-mock-odl
+version: 1.0.0

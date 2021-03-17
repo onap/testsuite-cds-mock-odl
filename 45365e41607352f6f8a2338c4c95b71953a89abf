@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "22133a2f_0bc3e8fe",
+        "filename": "docker/Dockerfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 5097
+      },
+      "writtenOn": "2021-03-17T07:37:53Z",
+      "side": 1,
+      "message": "Would it be possible to use Java baseline image here (https://git.onap.org/integration/docker/onap-java11/)?",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 22
+      },
+      "revId": "45365e41607352f6f8a2338c4c95b71953a89abf",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}

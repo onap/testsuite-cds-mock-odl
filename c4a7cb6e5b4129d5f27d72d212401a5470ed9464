@@ -1,0 +1,8 @@
+Code-Review+2: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Verified+1: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Fri, 02 Apr 2021 07:30:42 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/testsuite/cds-mock-odl/+/117001
+Project: testsuite/cds-mock-odl
+Branch: refs/heads/master
